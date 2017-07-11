@@ -30,10 +30,7 @@
     "url": "https://github.com/mercadopago/px-hybrid/issues"
   },
   "homepage": "https://github.com/mercadopago/px-hybrid#readme",
-  "dependencies": {
-    "xcode": "undefined0.8.3"
-  },
   "devDependencies": {
-    "xcode": "undefined0.8.3"
+    "xcode": "0.8.3"
   }
 }
